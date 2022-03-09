@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSO1337&theme=aura_dark&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSO1337&theme=aura_dark&show_icons=true)
+
 ![Guilherme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Willness&theme=aura_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSO1337&theme=aura_dark&show_icons=true&layout=compact)](https://github.com/GuilhermeSO1337/github-readme-stats)
 
 
 
